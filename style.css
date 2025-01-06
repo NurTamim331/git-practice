@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(82, 64, 64);
+}
+p{
+    background-color: rgb(183, 218, 218);
+    color: orangered;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1,h2,h3{
+    color: rgb(108, 108, 174);
+    font-size: 1.3em;
+}
